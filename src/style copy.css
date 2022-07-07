@@ -1,0 +1,47 @@
+.black-coffee h2 {
+  color: #A0996C;
+  font-family: "https://fonts.gstatic.com/css?family=Display";
+}
+
+
+.benefits-icons {
+  display: -ms-grid;
+  display: grid;
+  grid-gap: 10px;
+  font-size: 18px;
+  margin-top: 30px;
+}
+
+.icon {
+  margin-top: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  grid-gap: 10px;
+}
+
+li {
+  font-size: medium;
+  font-style: normal;
+  text-decoration: none;
+  list-style: none;
+  margin-top: 1em;
+  top: 40px;
+}
+
+button {
+  background: #F7F1E6;
+  color: #FFFFFF;
+  border-radius: 4px;
+  height: 46px;
+  width: 16em;
+  margin-bottom: 1em;
+}
+/*# sourceMappingURL=style.css.map */
